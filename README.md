@@ -30,7 +30,7 @@ or even better than fully-supervised fine-tuning methods.
 ## Installation 
 
 
-1. Install [SAM 2](https://github.com/facebookresearch/segment-anything-2), [Grouding DINO](https://github.com/IDEA-Research/GroundingDINO) and  [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) refer to their origin code.
+1. Install [SAM 2](https://github.com/facebookresearch/segment-anything-2), [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and  [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) refer to their origin code.
 
 2. Install other requirements by:
 ```
