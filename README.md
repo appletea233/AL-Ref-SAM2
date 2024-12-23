@@ -4,6 +4,7 @@
 
 
 ## Release Notes
+*  [2024/12/10] 🎉 Our Paper has been accepted by AAAI 2025!
 *  [2024/09/04] 🔥 Release our training free Audio Visual Segmentation (AVS) code.
 *  [2024/08/29] 🔥 Release our [Technical Report](https://arxiv.org/pdf/2408.15876) and our training free Referring Video Object Segmetation (RVOS) code.
 
